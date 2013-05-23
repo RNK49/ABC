@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Debug" />
+	<File name="ABC.c" open="1" top="0" tabpos="3">
+		<Cursor position="6376" topLine="221" />
+	</File>
+	<File name="ABC.h" open="1" top="0" tabpos="2">
+		<Cursor position="1177" topLine="3" />
+	</File>
+	<File name="main.c" open="1" top="1" tabpos="1">
+		<Cursor position="752" topLine="9" />
+	</File>
+</CodeBlocks_layout_file>
